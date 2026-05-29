@@ -1,6 +1,4 @@
-// Ahmed Abd-Algayed
-// Ahmed Abd-Algayed
-// Ahmed Abd-Algayed
+// Main Java Script
 const hole = document.getElementById("hole");
 const obstacle = document.getElementById("obstacle");
 const bird = document.getElementById("bird");
